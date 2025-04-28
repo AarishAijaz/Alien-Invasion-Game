@@ -4,7 +4,6 @@ A simple shooting game in which user can shoot incoming aliens before the aliens
 # Install pygame
 Run command:
 pip install pygame
-to install pygame library
 
 # Run Game
 Place all files in the same directory.
